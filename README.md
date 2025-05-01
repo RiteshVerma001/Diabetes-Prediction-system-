@@ -7,6 +7,7 @@ This system is achieved 78.8% accuracy on training data and 76.6% accuracy on te
 Python – Used for implementing the entire machine learning pipeline.
 
 Pandas – For loading and processing the dataset.
+
 NumPy – For efficient mathematical operations.
 
 Classifier alogrithm : Support Vector Machine
