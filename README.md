@@ -5,20 +5,26 @@ This system is achieved 78.8% accuracy on training data and 76.6% accuracy on te
 
 🛠️ Tools and Technologies Used:
 Python – Used for implementing the entire machine learning pipeline.
+
 Pandas – For loading and processing the dataset.
+
 NumPy – For efficient mathematical operations.
+
 Classifier alogrithm : Support Vector Machine
+
 Scikit-learn – For SVM implementation, data splitting, scaling, and evaluation metrics.
+
 Matplotlib / Seaborn – For visualizing data trends and insights.
 
 📂 Files Used
-diabetes.csv – Contains anonymized patient data, including features like:
-Dibetes Predection using ml:Main Notebook
+diabetes.csv – Contains anonymized patient data, including features like:Dibetes Predection using ml:Main Notebook
 
 Outcome (0 or 1 indicating diabetes status)
 
 🌍 Real-World Applications
 Hospitals and Clinics – Can use such models as a decision-support tool to screen patients.
+
 Healthcare Apps – Integrate prediction capabilities for early warning and risk assessment.
+
 Public Health Research – Enables scalable analysis of diabetes prevalence and risk factors.
 
