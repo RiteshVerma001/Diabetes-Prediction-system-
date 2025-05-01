@@ -17,7 +17,9 @@ Scikit-learn – For SVM implementation, data splitting, scaling, and evaluation
 Matplotlib / Seaborn – For visualizing data trends and insights.
 
 📂 Files Used
-diabetes.csv – Contains anonymized patient data, including features like:Dibetes Predection using ml:Main Notebook
+diabetes.csv – Contains anonymized patient data, including features like:
+
+Dibetes Predection using ml:Main Notebook
 
 Outcome (0 or 1 indicating diabetes status)
 
